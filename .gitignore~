@@ -2,5 +2,5 @@
 /autopatch/*
 /out/*
 Makefile~
-history_package
+/history_package/*
 .gitignorec~
