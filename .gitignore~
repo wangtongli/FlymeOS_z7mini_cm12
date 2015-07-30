@@ -1,5 +1,6 @@
 /board/*
 /autopatch/*
 /out/*
-Makefile
+Makefile~
 history_package
+.gitignorec~
